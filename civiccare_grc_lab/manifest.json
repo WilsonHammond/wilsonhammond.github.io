@@ -1,0 +1,19 @@
+{
+  "project": "CivicCare Nexus GRC Lab",
+  "created": "2026 05 22",
+  "files": [
+    "README.md",
+    "control_crosswalk.csv",
+    "data_classification.md",
+    "evidence_request_list.md",
+    "executive_summary.md",
+    "github_upload_steps.md",
+    "interview_talk_track.md",
+    "linkedin_post.md",
+    "poam.md",
+    "risk_register.csv",
+    "scenario.md",
+    "sources.md"
+  ],
+  "purpose": "Portfolio and interview practice for healthcare, finance, and federal GRC."
+}
