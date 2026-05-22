@@ -1,26 +1,35 @@
-# Wilson Hammond GRC Portfolio Site Starter
+# Wilson Hammond GRC Portfolio
 
-This starter contains a simple static portfolio website designed for GitHub Pages.
+A cybersecurity portfolio focused on Governance, Risk, and Compliance (GRC), risk assessment, control recommendations, business continuity, evidence based analysis, and cybersecurity decision support.
 
-## Files
+## Featured Lab
 
-index.html
-project_green_thumb.html
-styles.css
-assets/green_thumb_grc_case_study.pdf
-assets/green_thumb_risk_register_workbook.xlsx
+Small Business Cyber Risk Assessment and Risk Register
 
-## GitHub Pages Steps
+This portfolio begins with a Governance, Risk, and Compliance (GRC) case study for a fictional nursery business involving cloud based point of sale (POS) operations, customer data, inventory tracking, physical security, supplier dependency, employee safety, and recovery planning.
 
-1. Create a new public repository on GitHub.
-2. Upload all files from this folder.
-3. Open Settings, then Pages.
-4. Select Deploy from a branch.
-5. Select main and root.
-6. Save and wait for the site to publish.
+## Current Artifacts
 
-## Edit Points
+Portfolio website
 
-Replace the placeholder intro text with your exact resume headline.
-Add your LinkedIn URL and email when ready.
-Add new project cards as you build more labs.
+Green Thumb risk assessment case study
+
+Risk register workbook
+
+## Focus Areas
+
+Governance, Risk, and Compliance (GRC)
+
+Cybersecurity risk analysis
+
+National Institute of Standards and Technology (NIST)
+
+Cybersecurity Framework (CSF)
+
+Information security controls
+
+Business continuity
+
+Audit readiness
+
+Evidence based security decision making****
