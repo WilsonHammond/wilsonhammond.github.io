@@ -1,0 +1,111 @@
+<svg width="1600" height="2000" viewBox="0 0 1600 2000" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<title id="title">Project Violet Ledger GRC Portfolio Infographic</title>
+<desc id="desc">A portfolio infographic summarizing a third party governance collapse lab focused on vendor risk, human controls, and recovery planning.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#14002e"/>
+    <stop offset="42%" stop-color="#1e1b4b"/>
+    <stop offset="100%" stop-color="#020617"/>
+  </linearGradient>
+  <linearGradient id="violet" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#a855f7"/>
+    <stop offset="100%" stop-color="#38bdf8"/>
+  </linearGradient>
+  <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+    <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#000000" flood-opacity="0.35"/>
+  </filter>
+  <style>
+    .title { font: 900 86px Arial, Helvetica, sans-serif; fill: #ffffff; letter-spacing: -2px; }
+    .subtitle { font: 600 34px Arial, Helvetica, sans-serif; fill: #d8b4fe; }
+    .kicker { font: 800 24px Arial, Helvetica, sans-serif; fill: #67e8f9; letter-spacing: 4px; text-transform: uppercase; }
+    .body { font: 500 27px Arial, Helvetica, sans-serif; fill: #dbeafe; }
+    .small { font: 500 22px Arial, Helvetica, sans-serif; fill: #cbd5e1; }
+    .label { font: 800 25px Arial, Helvetica, sans-serif; fill: #ffffff; }
+    .metric { font: 900 54px Arial, Helvetica, sans-serif; fill: #ffffff; }
+    .metriclabel { font: 700 20px Arial, Helvetica, sans-serif; fill: #e9d5ff; letter-spacing: 1px; }
+    .card { fill: rgba(255,255,255,0.08); stroke: rgba(255,255,255,0.20); stroke-width: 2; filter: url(#shadow); }
+    .pill { fill: rgba(168,85,247,0.18); stroke: rgba(216,180,254,0.45); stroke-width: 2; }
+    .line { stroke: url(#violet); stroke-width: 8; stroke-linecap: round; }
+  </style>
+</defs>
+<rect width="1600" height="2000" fill="url(#bg)"/>
+<circle cx="1320" cy="160" r="260" fill="#7c3aed" opacity="0.18"/>
+<circle cx="220" cy="1780" r="300" fill="#0ea5e9" opacity="0.12"/>
+
+<text x="90" y="130" class="kicker">GRC portfolio lab</text>
+<text x="90" y="230" class="title">Project Violet Ledger</text>
+<text x="90" y="285" class="subtitle">Third Party Governance Collapse and Enterprise Recovery Program</text>
+
+<rect x="90" y="350" width="1420" height="220" rx="34" class="card"/>
+<text x="130" y="415" class="label">Scenario</text>
+<text x="130" y="470" class="body">A contractor credential exposed through infostealer malware allowed attackers to exploit dormant</text>
+<text x="130" y="512" class="body">vendor API access for 23 days across a regulated healthcare analytics environment.</text>
+
+<rect x="90" y="640" width="330" height="210" rx="30" class="card"/>
+<text x="125" y="715" class="metric">$18.7M</text>
+<text x="125" y="765" class="metriclabel">PROJECTED EXPOSURE</text>
+<text x="125" y="806" class="small">legal, response, tooling,</text>
+<text x="125" y="838" class="small">insurance impact</text>
+
+<rect x="450" y="640" width="330" height="210" rx="30" class="card"/>
+<text x="485" y="715" class="metric">12%</text>
+<text x="485" y="765" class="metriclabel">STOCK DECLINE</text>
+<text x="485" y="806" class="small">market confidence</text>
+<text x="485" y="838" class="small">pressure signal</text>
+
+<rect x="810" y="640" width="330" height="210" rx="30" class="card"/>
+<text x="845" y="715" class="metric">23</text>
+<text x="845" y="765" class="metriclabel">DAY DETECTION LAG</text>
+<text x="845" y="806" class="small">visibility and escalation</text>
+<text x="845" y="838" class="small">breakdown</text>
+
+<rect x="1170" y="640" width="340" height="210" rx="30" class="card"/>
+<text x="1205" y="715" class="metric">68%</text>
+<text x="1205" y="765" class="metriclabel">RISK REDUCTION TARGET</text>
+<text x="1205" y="806" class="small">projected residual risk</text>
+<text x="1205" y="838" class="small">improvement</text>
+
+<rect x="90" y="925" width="680" height="430" rx="34" class="card"/>
+<text x="130" y="990" class="label">Control failures</text>
+<text x="130" y="1055" class="body">• Incomplete vendor inventory</text>
+<text x="130" y="1110" class="body">• Stale privileged API access</text>
+<text x="130" y="1165" class="body">• Expired security reviews accepted</text>
+<text x="130" y="1220" class="body">• Alert fatigue weakened detection</text>
+<text x="130" y="1275" class="body">• Exception approvals became routine</text>
+
+<rect x="830" y="925" width="680" height="430" rx="34" class="card"/>
+<text x="870" y="990" class="label">Human control assessment</text>
+<text x="870" y="1055" class="body">• Ownership clarity</text>
+<text x="870" y="1110" class="body">• Review discipline</text>
+<text x="870" y="1165" class="body">• Training retention</text>
+<text x="870" y="1220" class="body">• Escalation behavior</text>
+<text x="870" y="1275" class="body">• Exception governance</text>
+
+<line x1="180" y1="1440" x2="1420" y2="1440" class="line"/>
+<circle cx="260" cy="1440" r="24" fill="#a855f7"/>
+<circle cx="550" cy="1440" r="24" fill="#8b5cf6"/>
+<circle cx="840" cy="1440" r="24" fill="#6366f1"/>
+<circle cx="1130" cy="1440" r="24" fill="#0ea5e9"/>
+<circle cx="1420" cy="1440" r="24" fill="#22d3ee"/>
+<text x="170" y="1505" class="small">Containment</text>
+<text x="472" y="1505" class="small">Vendor rebuild</text>
+<text x="760" y="1505" class="small">IAM modernization</text>
+<text x="1045" y="1505" class="small">GRC tooling</text>
+<text x="1345" y="1505" class="small">Board recovery</text>
+
+<rect x="90" y="1585" width="1420" height="250" rx="34" class="card"/>
+<text x="130" y="1650" class="label">Framework lens</text>
+<rect x="130" y="1695" width="220" height="64" rx="32" class="pill"/>
+<text x="160" y="1737" class="small">NIST CSF 2.0</text>
+<rect x="375" y="1695" width="250" height="64" rx="32" class="pill"/>
+<text x="405" y="1737" class="small">NIST SP 800 161</text>
+<rect x="650" y="1695" width="250" height="64" rx="32" class="pill"/>
+<text x="680" y="1737" class="small">NIST SP 800 53</text>
+<rect x="925" y="1695" width="225" height="64" rx="32" class="pill"/>
+<text x="955" y="1737" class="small">ISO IEC 27001</text>
+<rect x="1175" y="1695" width="140" height="64" rx="32" class="pill"/>
+<text x="1217" y="1737" class="small">SOC 2</text>
+<text x="130" y="1810" class="body">Outcome: a portfolio ready simulation that converts human behavior, vendor sprawl, and control erosion into measurable enterprise risk.</text>
+
+<text x="90" y="1925" class="kicker">Wilson Hammond  •  Governance Risk Compliance</text>
+</svg>
