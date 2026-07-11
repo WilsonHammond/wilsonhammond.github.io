@@ -51,7 +51,7 @@ Expected Graduation: August 2026
 
 ## 📄 Resume
 
-➡️ [Wilson_Hammond_Resume.pdf](Wilson_Hammond_Resume.pdf)
+[📄 View My Resume](./Wilson_Hammond_Resume.pdf)
 
 ---
 
