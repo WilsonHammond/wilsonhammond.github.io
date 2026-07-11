@@ -1,14 +1,68 @@
-# GitHub Upload Steps
+# Hi, I'm Wilson Hammond 👋
 
-1. Go to https://github.com/WilsonHammond/wilsonhammond.github.io
-2. Click **Add file**.
-3. Click **Upload files**.
-4. Open the extracted folder named `violet_ledger_github_ready`.
-5. Select everything inside that folder, not the folder itself.
-6. Drag those files and folders into GitHub.
-7. Use commit message: `Add Project Violet Ledger portfolio lab`
-8. Click **Commit changes**.
-9. Wait for GitHub Pages to deploy.
-10. Open https://wilsonhammond.github.io/project_violet_ledger.html
+Cybersecurity student, Army Intelligence veteran, and aspiring Governance, Risk, and Compliance (GRC) professional with experience in systems administration, quality assurance, risk management, and cybersecurity.
 
-If GitHub warns about replacing `index.html` or `styles.css`, that is expected. This update intentionally refreshes the homepage and shared styling.
+I enjoy transforming technical complexity into practical, organized solutions that improve security, compliance, and operational effectiveness.
+
+---
+
+## 🎓 Education
+
+**Southern New Hampshire University**
+
+Bachelor of Science in Cybersecurity
+
+Expected Graduation: August 2026
+
+---
+
+## 🎯 Current Focus
+
+- Governance, Risk & Compliance (GRC)
+- Risk Assessment
+- Quality Assurance
+- Systems Administration
+- NIST Cybersecurity Framework
+- ISO 27001
+- Security Documentation
+- Process Improvement
+
+---
+
+## 📜 Certifications
+
+- ISO/IEC 27001 Information Security Associate
+- ISC2 CGRC *(In Progress)*
+- CompTIA Security+ *(Planned)*
+
+---
+
+## 🚀 Featured Projects
+
+- Blackwake
+- Network Security Labs
+- Vulnerability Assessments
+- Packet Tracer Labs
+- Risk Management Documentation
+- Python Utilities
+- PowerShell Automation
+
+---
+
+## 📄 Resume
+
+➡️ [Wilson_Hammond_Resume.pdf](Wilson_Hammond_Resume.pdf)
+
+---
+
+## 🌐 Connect
+
+LinkedIn:
+https://www.linkedin.com/in/YOUR-LINK
+
+Portfolio:
+https://wilsonhammond.github.io/
+
+---
+
+*"Continuous learning. Practical security. Better systems."*
