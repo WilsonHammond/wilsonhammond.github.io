@@ -1,8 +1,8 @@
 # Hi, I'm Wilson Hammond 👋
 
-Cybersecurity student, Army Intelligence veteran, and aspiring Governance, Risk, and Compliance (GRC) professional with experience in systems administration, quality assurance, risk management, and cybersecurity.
+Army Intelligence veteran, cybersecurity student, and aspiring Governance, Risk & Compliance (GRC) professional with a passion for secure systems, quality assurance, and process improvement.
 
-I enjoy transforming technical complexity into practical, organized solutions that improve security, compliance, and operational effectiveness.
+I'm currently completing my Bachelor of Science in Cybersecurity at Southern New Hampshire University while building projects that demonstrate practical security, automation, documentation, and risk management skills.
 
 ---
 
@@ -14,6 +14,52 @@ Bachelor of Science in Cybersecurity
 
 Expected Graduation: August 2026
 
+## 💼 Experience
+
+### U.S. Army Intelligence Analyst
+
+- Produced intelligence assessments supporting military operations and leadership.
+- Analyzed complex information to identify trends, risks, and actionable recommendations.
+- Delivered concise reports and briefings in fast-paced, high-pressure environments.
+
+### Linea Peninsular | Yard Jockey
+
+- Coordinated trailer movements across active port operations with a strong emphasis on safety.
+- Managed priorities in a dynamic logistics environment while maintaining operational efficiency.
+- Communicated effectively with dispatchers, drivers, and terminal personnel.
+
+---
+
+## 🛠️ Skills
+
+**Cybersecurity**
+- Governance, Risk & Compliance (GRC)
+- NIST Cybersecurity Framework (CSF)
+- ISO/IEC 27001
+- Risk Assessment
+- Security Documentation
+- Vulnerability Management
+
+**Systems**
+- Windows Administration
+- Active Directory
+- Linux Fundamentals
+- Networking Fundamentals
+- Virtual Machines
+
+**Technical**
+- PowerShell
+- Python
+- Git & GitHub
+- Microsoft Office
+- Technical Documentation
+
+**Professional**
+- Analytical Thinking
+- Problem Solving
+- Quality Assurance
+- Technical Communication
+- Leadership
 ---
 
 ## 🎯 Current Focus
@@ -39,13 +85,15 @@ Expected Graduation: August 2026
 
 ## 🚀 Featured Projects
 
-- Blackwake
-- Network Security Labs
-- Vulnerability Assessments
-- Packet Tracer Labs
-- Risk Management Documentation
-- Python Utilities
-- PowerShell Automation
+## 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| **Project Blackwake** | A comprehensive cybersecurity project demonstrating technical analysis, documentation, and problem solving. |
+| **Portfolio Website** | Personal GitHub Pages portfolio showcasing projects, experience, and technical skills. |
+| **Packet Tracer Labs** | Networking and infrastructure labs covering routing, switching, VLANs, and troubleshooting. |
+| **Risk Management** | Security assessments, risk analysis, and governance documentation aligned with NIST and ISO 27001 principles. |
+| **PowerShell & Python** | Automation scripts for system administration, cybersecurity, and productivity. |
 
 ---
 
@@ -66,3 +114,10 @@ https://wilsonhammond.github.io/
 ---
 
 *"Continuous learning. Practical security. Better systems."*
+---
+
+## 📈 GitHub Activity
+
+![Wilson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wilsonhammond&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wilsonhammond&layout=compact)
