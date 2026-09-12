@@ -12,7 +12,7 @@ I'm currently completing my Bachelor of Science in Cybersecurity at Southern New
 
 Bachelor of Science in Cybersecurity
 
-Expected Graduation: August 2026
+August 2026
 
 ## 💼 Experience
 
@@ -22,7 +22,7 @@ Expected Graduation: August 2026
 - Analyzed complex information to identify trends, risks, and actionable recommendations.
 - Delivered concise reports and briefings in fast-paced, high-pressure environments.
 
-### Linea Peninsular | Yard Jockey
+### Linea Peninsular | Logistics
 
 - Coordinated trailer movements across active port operations with a strong emphasis on safety.
 - Managed priorities in a dynamic logistics environment while maintaining operational efficiency.
@@ -72,6 +72,7 @@ Expected Graduation: August 2026
 - ISO 27001
 - Security Documentation
 - Process Improvement
+- AI Generation
 
 ---
 
@@ -83,7 +84,6 @@ Expected Graduation: August 2026
 
 ---
 
-## 🚀 Featured Projects
 
 ## 🚀 Featured Projects
 
