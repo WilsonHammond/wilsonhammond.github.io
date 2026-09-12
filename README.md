@@ -2,7 +2,7 @@
 
 Army Intelligence veteran, cybersecurity student, and aspiring Governance, Risk & Compliance (GRC) professional with a passion for secure systems, quality assurance, and process improvement.
 
-I'm currently completing my Bachelor of Science in Cybersecurity at Southern New Hampshire University while building projects that demonstrate practical security, automation, documentation, and risk management skills.
+I graduated Summa Cum Laude with a Bachelor of Science in Cybersecurity with a concentration of AI Generation from Southern New Hampshire University while building projects that demonstrate practical security, automation, documentation, and risk management skills.
 
 ---
 
